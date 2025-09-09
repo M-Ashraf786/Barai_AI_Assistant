@@ -1,0 +1,6 @@
+langchain
+langchain_qroq
+langchain_community
+langgraph
+wikipedia
+streamlit
